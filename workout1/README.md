@@ -1,6 +1,6 @@
 ---
 title: "README"
-output: html_document
+output: github_document
 ---
 
 The following homework involves an in-depth analysis of the Golden State Warriors starting 5 (Klay Thompson, Kevin Durant, Draymond Green, Andre Iguodala and Steph Curry).
